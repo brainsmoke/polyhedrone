@@ -1,0 +1,360 @@
+Cmp-Mod V01 Created by PcbNew date = Sun 22 Jun 2014 10:37:42 PM CEST
+
+BeginCmp
+TimeStamp = /53A36445/53A73CA9;
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = MY0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A73CA9;
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = MY0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A73CA9;
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = MY0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A73CA9;
+Reference = C4;
+ValeurCmp = 1uF;
+IdModule  = MY0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A73CA9;
+Reference = C5;
+ValeurCmp = 1uF;
+IdModule  = MY0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A36463;
+Reference = D1;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A36472;
+Reference = D2;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A36493;
+Reference = D3;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A36463;
+Reference = D4;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A36472;
+Reference = D5;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A36493;
+Reference = D6;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A36463;
+Reference = D7;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A36472;
+Reference = D8;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A36493;
+Reference = D9;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A36463;
+Reference = D10;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A36472;
+Reference = D11;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A36493;
+Reference = D12;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A36463;
+Reference = D13;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A36472;
+Reference = D14;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A36493;
+Reference = D15;
+ValeurCmp = SAMSUNG_RGB_LED_5050;
+IdModule  = 5050RGB_LED;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A364DD;
+Reference = IC1;
+ValeurCmp = WS2801;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A364DD;
+Reference = IC2;
+ValeurCmp = WS2801;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A364DD;
+Reference = IC3;
+ValeurCmp = WS2801;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A364DD;
+Reference = IC4;
+ValeurCmp = WS2801;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A364DD;
+Reference = IC5;
+ValeurCmp = WS2801;
+IdModule  = SO14E;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A44A86;
+Reference = K2;
+ValeurCmp = IN1;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A46CDC;
+Reference = K3;
+ValeurCmp = OUT1;
+IdModule  = SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49FB8;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49BED;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49FA9;
+Reference = P3;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49BC0;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49BCF;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49FC7;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49BDE;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A49FD6;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = PIN_ARRAY_1_BIG;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A3650A;
+Reference = R1;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A364EC;
+Reference = R2;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A36445/53A364FB;
+Reference = R3;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A3650A;
+Reference = R4;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A364EC;
+Reference = R5;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A37A89/53A364FB;
+Reference = R6;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A3650A;
+Reference = R7;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A364EC;
+Reference = R8;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38229/53A364FB;
+Reference = R9;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A3650A;
+Reference = R10;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A364EC;
+Reference = R11;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38231/53A364FB;
+Reference = R12;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A3650A;
+Reference = R13;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A364EC;
+Reference = R14;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A38A19/53A364FB;
+Reference = R15;
+ValeurCmp = 33;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /53A4355E;
+Reference = U1;
+ValeurCmp = AMS1117-3.3;
+IdModule  = SOT223;
+EndCmp
+
+EndListe

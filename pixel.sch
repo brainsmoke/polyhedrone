@@ -1,0 +1,269 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:polyhedrone
+LIBS:polyhedrone-cache
+EELAYER 27 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 6
+Title ""
+Date "22 jun 2014"
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L SAMSUNG_RGB_LED_5050_SPMFCT5606N0S0A1E0 D1
+U 1 1 53A36463
+P 4450 2600
+AR Path="/53A36445/53A36463" Ref="D1"  Part="1" 
+AR Path="/53A37A89/53A36463" Ref="D4"  Part="1" 
+AR Path="/53A38229/53A36463" Ref="D7"  Part="1" 
+AR Path="/53A38231/53A36463" Ref="D10"  Part="1" 
+AR Path="/53A38A19/53A36463" Ref="D13"  Part="1" 
+F 0 "D1" H 4450 2250 60  0000 C CNN
+F 1 "SAMSUNG_RGB_LED_5050" H 4550 2900 60  0000 C CNN
+F 2 "~" H 4550 1600 60  0000 C CNN
+F 3 "~" H 4550 1600 60  0000 C CNN
+	1    4450 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SAMSUNG_RGB_LED_5050_SPMFCT5606N0S0A1E0 D2
+U 1 1 53A36472
+P 5700 2600
+AR Path="/53A36445/53A36472" Ref="D2"  Part="1" 
+AR Path="/53A37A89/53A36472" Ref="D5"  Part="1" 
+AR Path="/53A38229/53A36472" Ref="D8"  Part="1" 
+AR Path="/53A38231/53A36472" Ref="D11"  Part="1" 
+AR Path="/53A38A19/53A36472" Ref="D14"  Part="1" 
+F 0 "D2" H 5700 2250 60  0000 C CNN
+F 1 "SAMSUNG_RGB_LED_5050" H 5800 2900 60  0000 C CNN
+F 2 "~" H 5800 1600 60  0000 C CNN
+F 3 "~" H 5800 1600 60  0000 C CNN
+	1    5700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SAMSUNG_RGB_LED_5050_SPMFCT5606N0S0A1E0 D3
+U 1 1 53A36493
+P 6950 2600
+AR Path="/53A36445/53A36493" Ref="D3"  Part="1" 
+AR Path="/53A37A89/53A36493" Ref="D6"  Part="1" 
+AR Path="/53A38229/53A36493" Ref="D9"  Part="1" 
+AR Path="/53A38231/53A36493" Ref="D12"  Part="1" 
+AR Path="/53A38A19/53A36493" Ref="D15"  Part="1" 
+F 0 "D3" H 6950 2250 60  0000 C CNN
+F 1 "SAMSUNG_RGB_LED_5050" H 7050 2900 60  0000 C CNN
+F 2 "~" H 7050 1600 60  0000 C CNN
+F 3 "~" H 7050 1600 60  0000 C CNN
+	1    6950 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L WS2801 IC1
+U 1 1 53A364DD
+P 5900 3550
+AR Path="/53A36445/53A364DD" Ref="IC1"  Part="1" 
+AR Path="/53A37A89/53A364DD" Ref="IC2"  Part="1" 
+AR Path="/53A38229/53A364DD" Ref="IC3"  Part="1" 
+AR Path="/53A38231/53A364DD" Ref="IC4"  Part="1" 
+AR Path="/53A38A19/53A364DD" Ref="IC5"  Part="1" 
+F 0 "IC1" H 5900 3050 60  0000 C CNN
+F 1 "WS2801" H 5900 4000 60  0000 C CNN
+F 2 "~" H 5900 3550 60  0000 C CNN
+F 3 "~" H 5900 3550 60  0000 C CNN
+	1    5900 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L R R2
+U 1 1 53A364EC
+P 4900 3650
+AR Path="/53A36445/53A364EC" Ref="R2"  Part="1" 
+AR Path="/53A37A89/53A364EC" Ref="R5"  Part="1" 
+AR Path="/53A38229/53A364EC" Ref="R8"  Part="1" 
+AR Path="/53A38231/53A364EC" Ref="R11"  Part="1" 
+AR Path="/53A38A19/53A364EC" Ref="R14"  Part="1" 
+F 0 "R2" V 4980 3650 40  0000 C CNN
+F 1 "33" V 4907 3651 40  0000 C CNN
+F 2 "~" V 4830 3650 30  0000 C CNN
+F 3 "~" H 4900 3650 30  0000 C CNN
+	1    4900 3650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R3
+U 1 1 53A364FB
+P 4900 3850
+AR Path="/53A36445/53A364FB" Ref="R3"  Part="1" 
+AR Path="/53A37A89/53A364FB" Ref="R6"  Part="1" 
+AR Path="/53A38229/53A364FB" Ref="R9"  Part="1" 
+AR Path="/53A38231/53A364FB" Ref="R12"  Part="1" 
+AR Path="/53A38A19/53A364FB" Ref="R15"  Part="1" 
+F 0 "R3" V 4980 3850 40  0000 C CNN
+F 1 "33" V 4907 3851 40  0000 C CNN
+F 2 "~" V 4830 3850 30  0000 C CNN
+F 3 "~" H 4900 3850 30  0000 C CNN
+	1    4900 3850
+	0    -1   -1   0   
+$EndComp
+$Comp
+L R R1
+U 1 1 53A3650A
+P 4900 3450
+AR Path="/53A36445/53A3650A" Ref="R1"  Part="1" 
+AR Path="/53A37A89/53A3650A" Ref="R4"  Part="1" 
+AR Path="/53A38229/53A3650A" Ref="R7"  Part="1" 
+AR Path="/53A38231/53A3650A" Ref="R10"  Part="1" 
+AR Path="/53A38A19/53A3650A" Ref="R13"  Part="1" 
+F 0 "R1" V 4980 3450 40  0000 C CNN
+F 1 "33" V 4907 3451 40  0000 C CNN
+F 2 "~" V 4830 3450 30  0000 C CNN
+F 3 "~" H 4900 3450 30  0000 C CNN
+	1    4900 3450
+	0    -1   -1   0   
+$EndComp
+Text HLabel 4550 3250 0    60   Input ~ 0
+CLOCKIN
+Text HLabel 4550 3350 0    60   Input ~ 0
+DATAIN
+Wire Wire Line
+	4850 2500 5300 2500
+Wire Wire Line
+	4850 2600 5300 2600
+Wire Wire Line
+	4850 2700 5300 2700
+Wire Wire Line
+	6100 2500 6550 2500
+Wire Wire Line
+	6100 2600 6550 2600
+Wire Wire Line
+	6100 2700 6550 2700
+Wire Wire Line
+	4050 2500 3900 2500
+Wire Wire Line
+	3900 2500 3900 2700
+Wire Wire Line
+	3900 2700 4050 2700
+Wire Wire Line
+	3750 2600 4050 2600
+Connection ~ 3900 2600
+Wire Wire Line
+	5150 3650 5450 3650
+Wire Wire Line
+	5150 3450 5250 3450
+Wire Wire Line
+	5250 3450 5250 3550
+Wire Wire Line
+	5250 3550 5450 3550
+Wire Wire Line
+	5150 3850 5250 3850
+Wire Wire Line
+	5250 3850 5250 3750
+Wire Wire Line
+	5250 3750 5450 3750
+Wire Wire Line
+	4550 3250 5450 3250
+Wire Wire Line
+	4550 3350 5450 3350
+Wire Wire Line
+	5450 3850 5350 3850
+Wire Wire Line
+	5350 3850 5350 4000
+Wire Wire Line
+	5350 4000 4500 4000
+Wire Wire Line
+	4500 3450 4500 4150
+Wire Wire Line
+	4500 3450 4650 3450
+Wire Wire Line
+	4500 3650 4650 3650
+Connection ~ 4500 3650
+Wire Wire Line
+	4500 3850 4650 3850
+Connection ~ 4500 3850
+Connection ~ 4500 4000
+Text HLabel 3750 2600 0    60   Input ~ 0
+VCC12V
+Text HLabel 6500 3250 2    60   Input ~ 0
+VCC3V3
+Wire Wire Line
+	6350 3250 6500 3250
+Wire Wire Line
+	6350 3350 6500 3350
+Wire Wire Line
+	6350 3450 6500 3450
+Text HLabel 6500 3350 2    60   Input ~ 0
+CLOCKOUT
+Text HLabel 6500 3450 2    60   Input ~ 0
+DATAOUT
+Wire Wire Line
+	7350 2700 7450 2700
+Wire Wire Line
+	7450 2700 7450 3850
+Wire Wire Line
+	7450 3850 6350 3850
+Wire Wire Line
+	6350 3750 7550 3750
+Wire Wire Line
+	7550 3750 7550 2600
+Wire Wire Line
+	7550 2600 7350 2600
+Wire Wire Line
+	6350 3650 7650 3650
+Wire Wire Line
+	7650 3650 7650 2500
+Wire Wire Line
+	7650 2500 7350 2500
+Text HLabel 4500 4150 0    60   Input ~ 0
+GND
+$Comp
+L C C?
+U 1 1 53A73CA9
+P 5900 4250
+F 0 "C?" H 5900 4350 40  0000 L CNN
+F 1 "1uF" H 5906 4165 40  0000 L CNN
+F 2 "~" H 5938 4100 30  0000 C CNN
+F 3 "~" H 5900 4250 60  0000 C CNN
+	1    5900 4250
+	0    -1   -1   0   
+$EndComp
+Text HLabel 5700 4250 0    60   Input ~ 0
+GND
+Text HLabel 6100 4250 2    60   Input ~ 0
+VCC3V3
+$EndSCHEMATC
