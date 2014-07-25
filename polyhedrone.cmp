@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by PcbNew date = Sun 22 Jun 2014 10:37:42 PM CEST
+Cmp-Mod V01 Created by PcbNew date = Fri 11 Jul 2014 09:27:13 AM CEST
 
 BeginCmp
 TimeStamp = /53A36445/53A73CA9;
@@ -176,73 +176,45 @@ IdModule  = SO14E;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A44A86;
+TimeStamp = /53BD1E86;
+Reference = K1;
+ValeurCmp = OUT;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /53BD12AB;
 Reference = K2;
-ValeurCmp = IN1;
-IdModule  = SIL-3;
+ValeurCmp = IN;
+IdModule  = SIL-4;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A46CDC;
-Reference = K3;
-ValeurCmp = OUT1;
-IdModule  = SIL-3;
-EndCmp
-
-BeginCmp
-TimeStamp = /53A49FB8;
+TimeStamp = /53BF24C8;
 Reference = P1;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2-big;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A49BED;
+TimeStamp = /53BF3E1D;
 Reference = P2;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2-big;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A49FA9;
+TimeStamp = /53BFA3A2;
 Reference = P3;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2-big;
 EndCmp
 
 BeginCmp
-TimeStamp = /53A49BC0;
+TimeStamp = /53BFA3B1;
 Reference = P4;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = /53A49BCF;
-Reference = P5;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = /53A49FC7;
-Reference = P6;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = /53A49BDE;
-Reference = P7;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
-EndCmp
-
-BeginCmp
-TimeStamp = /53A49FD6;
-Reference = P8;
-ValeurCmp = CONN_1;
-IdModule  = PIN_ARRAY_1_BIG;
+ValeurCmp = CONN_2;
+IdModule  = SIL-2-big;
 EndCmp
 
 BeginCmp

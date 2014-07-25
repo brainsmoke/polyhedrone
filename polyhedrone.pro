@@ -1,4 +1,4 @@
-update=Sun 22 Jun 2014 10:37:24 PM CEST
+update=Fri 11 Jul 2014 07:20:45 AM CEST
 version=1
 last_client=pcbnew
 [general]
@@ -52,10 +52,10 @@ EquName1=devcms
 version=1
 LastNetListRead=polyhedrone.net
 UseCmpFile=1
-PadDrill=1.016000000000
-PadDrillOvalY=1.016000000000
-PadSizeH=3.048000000000
-PadSizeV=3.048000000000
+PadDrill=0.812800000000
+PadDrillOvalY=0.812800000000
+PadSizeH=3.000000000000
+PadSizeV=3.000000000000
 PcbTextSizeV=1.500000000000
 PcbTextSizeH=1.500000000000
 PcbTextThickness=0.300000000000
@@ -89,3 +89,5 @@ LibName17=samsung_rgb_led_5050_spmfct5606n0s0a1e0
 LibName18=polyhedrone
 LibName19=bigpad
 LibName20=my0805
+LibName21=/storage/archive/hardware/lib/kicad/mymods/openhw
+LibName22=/storage/archive/hardware/lib/kicad/mymods/pinarray_2_big
